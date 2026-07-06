@@ -32,3 +32,18 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 ## Autor
 
 Bruno Eduardo Dorotéia
+
+
+# Screenshots
+
+## Tela Inicial
+
+![Tela Inicial](images/home.png)
+
+## Cadastro
+
+![Cadastro](images/cadastro.png)
+
+## Consulta
+
+![Consulta](images/consulta.png)
