@@ -42,11 +42,11 @@ Bruno Eduardo Dorotéia
 
 ## Cadastro
 
-![Cadastro](adicionar-novo-insturmento.png)
+![Cadastro](adicionar-novo-instrumento.png)
 
 ## Consulta
 
-![Consulta](expansao-iventario-de-instrumentos.png)
+![Consulta](expansao-inventario-de-instrumentos.png)
 
 ## Dashboard
 ![Dashboard](dashboard.png)
