@@ -38,12 +38,15 @@ Bruno Eduardo Dorotéia
 
 ## Tela Inicial
 
-![Tela Inicial](images/home.png)
+![Tela Inicial](tela-inicial.png)
 
 ## Cadastro
 
-![Cadastro](images/cadastro.png)
+![Cadastro](adicionar-novo-insturmento.png)
 
 ## Consulta
 
-![Consulta](images/consulta.png)
+![Consulta](expansao-iventario-de-instrumentos.png)
+
+## Dashboard
+![Dashboard](dashboard.png)
